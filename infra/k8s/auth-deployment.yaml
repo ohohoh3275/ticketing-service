@@ -7,7 +7,7 @@ spec:
   selector:
     matchLabels:
       app: auth
-  templates:
+  template:
     metadata:
       labels:
         app: auth
