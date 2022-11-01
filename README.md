@@ -5,3 +5,7 @@
   - ts-node-dev
   - express
   - @types/express
+
+---
+
+`skaffold dev`
