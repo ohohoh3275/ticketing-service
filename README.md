@@ -9,3 +9,8 @@
 ---
 
 `skaffold dev`
+
+---
+
+- when chrome doesnt like the unsecure website we created
+  - type `thisisunsafe`
